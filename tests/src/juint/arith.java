@@ -1,5 +1,6 @@
 package juint;
 
+
 public class arith {
 
 	public static void main(String[] args) {
